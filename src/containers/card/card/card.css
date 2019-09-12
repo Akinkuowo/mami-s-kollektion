@@ -1,0 +1,20 @@
+.price{
+    margin: 0px;
+}
+
+.Products_Container{
+    margin-top: 12%;
+}
+
+.Product_Name{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.place_Order{
+    color: white;
+    background: black;
+    padding: 2px;
+    border: 1px solid black;
+    width: 100%;
+}
