@@ -3,7 +3,7 @@ import './banner.css';
 
 import { Slide } from 'react-slideshow-overlay';
 
-import slide_1 from './images/banner2.jpg';
+import slide_1 from './images/sales.jpg';
 import slide_2 from './images/image_4.jpg';
 import slide_3 from './images/wallpaper3.jpg';
 
